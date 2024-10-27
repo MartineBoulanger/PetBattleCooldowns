@@ -1,0 +1,7 @@
+## Interface: 80100
+## Title: Derangement's Pet Battle Cooldowns
+## Author: Derangement
+## Version: v1.1.5
+## Notes: Track cooldowns and buffs/debuffs of enemy and inactive battle pets.
+
+DerangementPetBattleCooldowns.xml
