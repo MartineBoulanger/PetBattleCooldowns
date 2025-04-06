@@ -1,9 +1,21 @@
-## Interface: 110100
+## Interface: 110105
 ## Version: 1.2.2
-## Category: Battle Pets
-## IconTexture: Interface\Addons\PetBattleCooldowns\media\PetBattleCooldowns-icon.tga
 ## Title: Pet Battle Cooldowns
 ## Author: Derangement - updated by FwenTheHunter
 ## Notes: Track the cooldowns and buffs/debuffs of yours and yous opponent's battle pets.
+## X-Category: Pet Battles
+## IconTexture: Interface\Addons\PetBattleCooldowns\media\PetBattleCooldowns-icon.tga
+## Category-enUS: Pet Battles
+## Category-deDE: Haustierkämpfe
+## Category-esES: Duelos de mascotas
+## Category-esMX: Duelos de mascotas
+## Category-frFR: Combats de mascottes
+## Category-itIT: Mostra allenatori di mascotte
+## Category-koKR: 애완동물 대전
+## Category-ptBR: Batalhas de mascotes
+## Category-ruRU: Битвы питомцев
+## Category-zhCN: 宠物对战
+## Category-zhTW: 寵物對戰
+## SavedVariables: BattleLogs, PetUsage
 
 PetBattleCooldowns.xml
