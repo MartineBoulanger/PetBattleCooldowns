@@ -1,4 +1,4 @@
-## Interface: 110205,50502
+## Interface: 110207,50503
 ## Version: 1.2.7
 ## Title: Pet Battle Cooldowns
 ## Author: Derangement - updated by FwenTheHunter
