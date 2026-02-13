@@ -1,5 +1,5 @@
-## Interface: 120000,50503
-## Version: 1.2.9
+## Interface: 120001,50503
+## Version: 1.2.10
 ## Title: Pet Battle Cooldowns
 ## Author: Derangement - updated by FwenTheHunter
 ## Notes: Track the cooldowns and buffs/debuffs of yours and yous opponent's battle pets.
