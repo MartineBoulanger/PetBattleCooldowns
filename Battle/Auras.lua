@@ -7,11 +7,12 @@ function Auras.GetPetAuras(playerIndex, petIndex)
 
   local numAuras = C_PetBattles.GetNumAuras(playerIndex, petIndex)
 
+  if not numAuras then
+    return auras
+  end
+
   for auraIndex = 1, numAuras do
-    local auraID,
-    instanceID,
-    turnsRemaining,
-    isBuff =
+    local auraID, instanceID, turnsRemaining, isBuff =
         C_PetBattles.GetAuraInfo(playerIndex, petIndex, auraIndex)
 
     if auraID then
